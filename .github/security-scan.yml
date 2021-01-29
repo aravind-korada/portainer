@@ -1,6 +1,6 @@
 on:
   push:
-    branches: [develop, release/**, feat/ce-220-security-scan]
+    branches: [develop, release/**, feat/ce-220-security-scan, remove-me]
   pull_request:
     # The branches below must be a subset of the branches above
     branches: [develop]
